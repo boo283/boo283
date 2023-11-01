@@ -7,8 +7,8 @@
   - Information Assurance IE105
   - Database - IT004
   - Data Analytics - IE224
-  - Hackerrank
-  - Datacamp Certificate :D :D
+  - Hackerrank Solutions with Python
+  - Datacamp Certificates :D :D
 
 <!---
 boo283/boo283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
