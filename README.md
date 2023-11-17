@@ -1,14 +1,14 @@
-- 👋 Passionating about Data Engineer
-- 😰 Dealing with Deadlines
-- 🥵 Sharing effective and informative source code
-- ❤️ Storing code as milestones on the learning roadmap at UIT
--📚  Storing documents related to the following subjects, projects and courses:
-  ⚽ Wecode - Machine Learning CS114
-  ⚽ Information Assurance IE105
-  ⚽ Database - IT004
-  ⚽ Data Analytics - IE224
-  ⚽ Hackerrank Solutions with Python
-  ⚽ Datacamp Certificates :D :D
+# 👋 Passionating about Data Engineer
+# 😰 Dealing with Deadlines
+# 🥵 Sharing effective and informative source code
+# ❤️ Storing code as milestones on the learning roadmap at UIT
+# 📚  Storing documents related to the following subjects, projects and courses: <br />
+## - ⚽ Wecode - Machine Learning CS114<br />
+## - ⚽ Information Assurance IE105<br />
+## - ⚽ Database - IT004<br />
+## - ⚽ Data Analytics - IE224<br />
+## - ⚽ Hackerrank Solutions with Python<br />
+## - ⚽ Datacamp Certificates :D :D<br />
 
 <!---
 boo283/boo283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
