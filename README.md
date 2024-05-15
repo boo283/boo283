@@ -5,10 +5,9 @@
 # 📚  Storing documents related to the following subjects, projects and courses: <br />
 ## - ⚽ Wecode - Machine Learning CS114<br />
 ## - ⚽ Information Assurance IE105<br />
-## - ⚽ Database - IT004<br />
 ## - ⚽ Data Analytics - IE224<br />
 ## - ⚽ Hackerrank Solutions with Python<br />
-## - ⚽ Datacamp Certificates :D :D<br />
+And so on ....
 
 <!---
 boo283/boo283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
